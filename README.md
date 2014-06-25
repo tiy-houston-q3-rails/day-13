@@ -7,6 +7,8 @@ Day-14 Homework
 4. Config your name in config.rb
 5. Write 2 blog posts about stuff at IronYard
 6. Add an image of something you like. Pancakes (or something).
+7. (videos and research) 
+8. Create a git repo for your blog and push your code to it. Post link to git repo on this repo as issue
 
 Videos / Research
 --------
